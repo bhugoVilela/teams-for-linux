@@ -537,6 +537,7 @@ function createNewBrowserWindow(windowState) {
 		title: 'Teams for Linux',
 		x: windowState.x,
 		y: windowState.y,
+		transparent: true,
 
 		width: windowState.width,
 		height: windowState.height,
